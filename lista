@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="Data Atualização",21/01/2024
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="Data Atualização",25/01/2024
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55ipDyt.png" group-title="Pix Doação",dantavares@gmail.com
-https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sorFdJm.png" group-title="Pix Doação",Garanta a atualização desta lista
+https://i.imgur.com/JYrcU29.png
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sorFdJm.png" group-title="Pix Doação",pix@dantavares.tec.br
+https://i.imgur.com/JYrcU29.png
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
 https://cr7v.short.gy/live7/GloboTVMirante/Index.m3u8
