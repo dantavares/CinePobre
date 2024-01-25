@@ -5,3 +5,5 @@
 3. Use o link abaixo, exatamente da forma como está, respeitando maiúsculas e minúsculas:
 
 ### Link da lista encurtado: [https://tny.im/CinePobre](https://tny.im/CinePobre)
+
+### Garanta a atualização desta lista, envie uma doação de no mínimo 10 Cascalhos: [Clique aqui para fazer a doação](https://nubank.com.br/pagar/37xft/D2wxOFmkST)
