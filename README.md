@@ -6,5 +6,5 @@
 
 ### Link da lista encurtado: [https://tny.im/CinePobre](https://tny.im/CinePobre)
 
-### Garanta a atualização desta lista, envie uma doação de no mínimo 10 Cascalhos: 
+### Garanta a atualização desta lista, envie uma doação de no mínimo 10 Cascalhos: pix@dantavares.tec.br 
 [Clique aqui para fazer a doação](https://nubank.com.br/pagar/37xft/D2wxOFmkST)
