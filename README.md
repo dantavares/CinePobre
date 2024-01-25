@@ -7,5 +7,9 @@
 
 ### Link da lista encurtado: [https://tny.im/CinePobre](https://tny.im/CinePobre)
 
+### Instruções para usar a lista no Kodi
+Recomendo usar o Kodi por ser um software amplamente conhecido, de código aberto, multiplataforma (funciona no windows, linux, Android, RPI etc), e livre de malware.
+[Clique aqui para assistir como configurar o Kodi](https://www.dailymotion.com/video/x8rsccu)
+
 ### Garanta a atualização desta lista, envie uma doação de no mínimo 10 Cascalhos: pix@dantavares.tec.br 
 [Clique aqui para fazer a doação com qr code](https://nubank.com.br/pagar/37xft/D2wxOFmkST)
